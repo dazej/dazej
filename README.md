@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dazej
 - 👀 I’m interested in learning coding and progressing within the tech field
-- 🌱 I’m currently learning REACT.js and SQL.
+- 🌱 I’m currently learning NEXT.js, MONGODB & Python.
 - 💞️ I’m looking to collaborate on pretty much anything!
 
 <!---
